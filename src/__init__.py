@@ -1,2 +1,2 @@
 # __init__.py
-# (empty) — keeps src a package
+# Enhanced package for SkillForge-XL
