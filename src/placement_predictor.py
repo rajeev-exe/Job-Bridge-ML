@@ -6,7 +6,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 import os
 
 model = SentenceTransformer('all-MiniLM-L6-v2')
-SKILLS_CSV_PATH = r"D:\GitHub\Job-Bridge-ML\Data\skills_dataset.csv"
+DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "Data")
+SKILLS_CSV_PATH = os.path.join(DATA_DIR, "skills_dataset.csv")
 
 def normalize_skills(skills_text):
     if not skills_text or pd.isna(skills_text):
