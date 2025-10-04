@@ -252,11 +252,11 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 👤 Author
 
-**Rajeev R**  
+**Rajeev Gandhi K**  
 📍 Chennai, Tamil Nadu, India  
 💻 Computer Science Student | Data Science Enthusiast  
 🔗 [GitHub: @rajeev-exe](https://github.com/rajeev-exe)  
-✉️ Email: [Add your email if desired]
+✉️ Email: rajeevgandhi.exe@gmail.com
 
 ---
 
