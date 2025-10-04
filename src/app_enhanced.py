@@ -675,7 +675,8 @@ def load_datasets():
                 "skills": ["python, java", "python, sql, machine learning", "html, css, react"]
             })
             sample_synthetic.to_csv(SYNTHETIC_JOBS_PATH, index=False)
-            # Load datasets
+        
+        # Load datasets
         datasets['courses'] = pd.read_csv(COURSES_PATH) if os.path.exists(COURSES_PATH) else pd.DataFrame()
         datasets['emerging_tech'] = pd.read_csv(EMERGING_TECH_PATH) if os.path.exists(EMERGING_TECH_PATH) else pd.DataFrame()
         datasets['jobs'] = pd.read_csv(JOBS_PATH) if os.path.exists(JOBS_PATH) else pd.DataFrame()
@@ -1574,8 +1575,9 @@ def main():
     st.markdown("</div></div>", unsafe_allow_html=True)
     
     # Analysis button with enhanced styling
-    if st.button("🚀 Analyze My Resume & Get Job Readiness Score", type="primary", use_container_width=True):
-                # Get text content
+        # Analyze button with enhanced styling
+    if st.button("🚀 Analyze My Resume & Get Job Readiness Score"):
+        # Get text content
         text = ""
         if uploaded_file is not None:
             text = extract_text_from_file(uploaded_file)
@@ -1587,7 +1589,7 @@ def main():
 
         # Validate resume content
         if not is_resume(text):
-            st.error("""
+            st.markdown("""
             <div style="background: rgba(239, 68, 68, 0.2); padding: 20px; border-radius: 10px; border-left: 6px solid #ef4444; color: #e2e8f0;">
                 <h3 style="color: #ef4444; margin-bottom: 10px;">⚠️ The content doesn't appear to be a resume.</h3>
                 <p>Please provide a valid resume with sections like:</p>
