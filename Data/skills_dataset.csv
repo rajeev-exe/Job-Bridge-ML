@@ -1,0 +1,1001 @@
+id,title,description,skills,demand_level,category,location,year
+1,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+2,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+3,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+4,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+5,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+6,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+7,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+8,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+9,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+10,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+11,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+12,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+13,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+14,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+15,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+16,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+17,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+18,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+19,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+20,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+21,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+22,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+23,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+24,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+25,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+26,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+27,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+28,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+29,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+30,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+31,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+32,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+33,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+34,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+35,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+36,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+37,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+38,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+39,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+40,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+41,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+42,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+43,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+44,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+45,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+46,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+47,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+48,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+49,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+50,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+51,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+52,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+53,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+54,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+55,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+56,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+57,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+58,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+59,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+60,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+61,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+62,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+63,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+64,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+65,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+66,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+67,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+68,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+69,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+70,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+71,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+72,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+73,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+74,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+75,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+76,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+77,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+78,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+79,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+80,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+81,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+82,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+83,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+84,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+85,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+86,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+87,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+88,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+89,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+90,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+91,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+92,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+93,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+94,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+95,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+96,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+97,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+98,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+99,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+100,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+101,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+102,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+103,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+104,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+105,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+106,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+107,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+108,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+109,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+110,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+111,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+112,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+113,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+114,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+115,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+116,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+117,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+118,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+119,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+120,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+121,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+122,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+123,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+124,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+125,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+126,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+127,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+128,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+129,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+130,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+131,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+132,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+133,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+134,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+135,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+136,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+137,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+138,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+139,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+140,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+141,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+142,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+143,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+144,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+145,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+146,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+147,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+148,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+149,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+150,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+151,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+152,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+153,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+154,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+155,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+156,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+157,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+158,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+159,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+160,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+161,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+162,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+163,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+164,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+165,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+166,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+167,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+168,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+169,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+170,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+171,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+172,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+173,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+174,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+175,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+176,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+177,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+178,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+179,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+180,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+181,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+182,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+183,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+184,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+185,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+186,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+187,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+188,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+189,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+190,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+191,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+192,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+193,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+194,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+195,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+196,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+197,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+198,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+199,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+200,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+201,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+202,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+203,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+204,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+205,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+206,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+207,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+208,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+209,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+210,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+211,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+212,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+213,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+214,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+215,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+216,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+217,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+218,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+219,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+220,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+221,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+222,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+223,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+224,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+225,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+226,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+227,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+228,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+229,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+230,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+231,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+232,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+233,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+234,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+235,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+236,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+237,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+238,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+239,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+240,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+241,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+242,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+243,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+244,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+245,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+246,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+247,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+248,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+249,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+250,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+251,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+252,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+253,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+254,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+255,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+256,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+257,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+258,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+259,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+260,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+261,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+262,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+263,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+264,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+265,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+266,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+267,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+268,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+269,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+270,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+271,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+272,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+273,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+274,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+275,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+276,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+277,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+278,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+279,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+280,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+281,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+282,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+283,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+284,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+285,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+286,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+287,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+288,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+289,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+290,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+291,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+292,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+293,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+294,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+295,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+296,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+297,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+298,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+299,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+300,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+301,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+302,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+303,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+304,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+305,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+306,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+307,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+308,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+309,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+310,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+311,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+312,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+313,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+314,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+315,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+316,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+317,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+318,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+319,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+320,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+321,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+322,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+323,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+324,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+325,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+326,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+327,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+328,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+329,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+330,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+331,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+332,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+333,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+334,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+335,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+336,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+337,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+338,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+339,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+340,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+341,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+342,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+343,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+344,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+345,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+346,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+347,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+348,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+349,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+350,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+351,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+352,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+353,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+354,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+355,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+356,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+357,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+358,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+359,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+360,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+361,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+362,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+363,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+364,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+365,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+366,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+367,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+368,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+369,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+370,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+371,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+372,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+373,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+374,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+375,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+376,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+377,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+378,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+379,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+380,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+381,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+382,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+383,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+384,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+385,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+386,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+387,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+388,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+389,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+390,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+391,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+392,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+393,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+394,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+395,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+396,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+397,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+398,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+399,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+400,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+401,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+402,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+403,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+404,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+405,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+406,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+407,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+408,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+409,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+410,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+411,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+412,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+413,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+414,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+415,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+416,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+417,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+418,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+419,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+420,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+421,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+422,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+423,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+424,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+425,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+426,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+427,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+428,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+429,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+430,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+431,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+432,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+433,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+434,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+435,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+436,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+437,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+438,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+439,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+440,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+441,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+442,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+443,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+444,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+445,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+446,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+447,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+448,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+449,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+450,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+451,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+452,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+453,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+454,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+455,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+456,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+457,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+458,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+459,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+460,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+461,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+462,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+463,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+464,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+465,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+466,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+467,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+468,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+469,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+470,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+471,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+472,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+473,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+474,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+475,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+476,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+477,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+478,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+479,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+480,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+481,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+482,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+483,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+484,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+485,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+486,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+487,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+488,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+489,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+490,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+491,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+492,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+493,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+494,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+495,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+496,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+497,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+498,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+499,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+500,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+501,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+502,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+503,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+504,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+505,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+506,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+507,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+508,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+509,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+510,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+511,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+512,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+513,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+514,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+515,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+516,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+517,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+518,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+519,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+520,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+521,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+522,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+523,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+524,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+525,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+526,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+527,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+528,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+529,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+530,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+531,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+532,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+533,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+534,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+535,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+536,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+537,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+538,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+539,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+540,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+541,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+542,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+543,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+544,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+545,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+546,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+547,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+548,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+549,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+550,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+551,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+552,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+553,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+554,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+555,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+556,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+557,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+558,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+559,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+560,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+561,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+562,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+563,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+564,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+565,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+566,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+567,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+568,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+569,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+570,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+571,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+572,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+573,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+574,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+575,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+576,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+577,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+578,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+579,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+580,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+581,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+582,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+583,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+584,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+585,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+586,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+587,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+588,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+589,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+590,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+591,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+592,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+593,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+594,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+595,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+596,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+597,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+598,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+599,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+600,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+601,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+602,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+603,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+604,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+605,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+606,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+607,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+608,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+609,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+610,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+611,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+612,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+613,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+614,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+615,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+616,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+617,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+618,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+619,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+620,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+621,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+622,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+623,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+624,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+625,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+626,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+627,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+628,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+629,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+630,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+631,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+632,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+633,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+634,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+635,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+636,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+637,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+638,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+639,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+640,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+641,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+642,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+643,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+644,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+645,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+646,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+647,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+648,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+649,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+650,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+651,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+652,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+653,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+654,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+655,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+656,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+657,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+658,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+659,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+660,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+661,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+662,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+663,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+664,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+665,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+666,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+667,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+668,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+669,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+670,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+671,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+672,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+673,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+674,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+675,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+676,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+677,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+678,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+679,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+680,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+681,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+682,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+683,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+684,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+685,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+686,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+687,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+688,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+689,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+690,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+691,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+692,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+693,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+694,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+695,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+696,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+697,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+698,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+699,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+700,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+701,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+702,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+703,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+704,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+705,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+706,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+707,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+708,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+709,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+710,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+711,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+712,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+713,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+714,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+715,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+716,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+717,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+718,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+719,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+720,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+721,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+722,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+723,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+724,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+725,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+726,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+727,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+728,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+729,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+730,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+731,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+732,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+733,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+734,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+735,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+736,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+737,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+738,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+739,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+740,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+741,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+742,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+743,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+744,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+745,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+746,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+747,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+748,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+749,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+750,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+751,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+752,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+753,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+754,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+755,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+756,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+757,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+758,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+759,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+760,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+761,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+762,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+763,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+764,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+765,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+766,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+767,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+768,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+769,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+770,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+771,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+772,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+773,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+774,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+775,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+776,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+777,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+778,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+779,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+780,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+781,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+782,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+783,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+784,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+785,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+786,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+787,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+788,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+789,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+790,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+791,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+792,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+793,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+794,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+795,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+796,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+797,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+798,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+799,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+800,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+801,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+802,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+803,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+804,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+805,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+806,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+807,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+808,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+809,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+810,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+811,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+812,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+813,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+814,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+815,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+816,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+817,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+818,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+819,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+820,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+821,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+822,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+823,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+824,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+825,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+826,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+827,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+828,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+829,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+830,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+831,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+832,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+833,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+834,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+835,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+836,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+837,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+838,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+839,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+840,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+841,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+842,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+843,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+844,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+845,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+846,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+847,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+848,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+849,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+850,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+851,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+852,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+853,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+854,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+855,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+856,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+857,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+858,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+859,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+860,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+861,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+862,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+863,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+864,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+865,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+866,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+867,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+868,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+869,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+870,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+871,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+872,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+873,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+874,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+875,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+876,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+877,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+878,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+879,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+880,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+881,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+882,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+883,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+884,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+885,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+886,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+887,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+888,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+889,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+890,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+891,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+892,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+893,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+894,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+895,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+896,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+897,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+898,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+899,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+900,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+901,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+902,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+903,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+904,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+905,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+906,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+907,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+908,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+909,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+910,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+911,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+912,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,USA,2025
+913,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+914,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+915,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+916,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+917,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+918,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+919,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+920,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+921,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+922,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+923,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+924,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+925,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+926,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+927,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+928,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+929,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+930,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+931,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+932,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+933,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+934,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+935,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,USA,2025
+936,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+937,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+938,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+939,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+940,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+941,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+942,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+943,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+944,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+945,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+946,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+947,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+948,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+949,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+950,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+951,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Europe,2025
+952,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+953,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+954,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+955,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+956,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+957,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+958,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Europe,2025
+959,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+960,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+961,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Europe,2025
+962,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+963,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Global,2025
+964,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+965,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025
+966,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+967,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Global,2025
+968,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+969,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Europe,2025
+970,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+971,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,India,2025
+972,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+973,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,India,2025
+974,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Remote,2025
+975,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Remote,2025
+976,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,USA,2025
+977,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,USA,2025
+978,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+979,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Global,2025
+980,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Remote,2025
+981,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,India,2025
+982,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Remote,2025
+983,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,Global,2025
+984,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+985,Cloud Architect,Architect scalable cloud infrastructure,"aws,azure,gcp,devops,kubernetes,docker",high,Cloud,Europe,2025
+986,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+987,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,Global,2025
+988,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+989,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Remote,2025
+990,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+991,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+992,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+993,IoT Developer,Develop and secure IoT systems,"iot,embedded systems,edge computing,python,c,aws iot",emerging,IoT,USA,2025
+994,Data Scientist,Analyze big data and deliver insights,"python,sql,pandas,data visualization,statistics",high,Data Science,Global,2025
+995,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,USA,2025
+996,Cybersecurity Specialist,Secure systems and lead threat analysis,"cybersecurity,network security,penetration testing,firewall,siem",high,Cybersecurity,India,2025
+997,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,Europe,2025
+998,AI/ML Engineer,Build models and deploy AI-powered systems,"python,tensorflow,pytorch,machine learning,deep learning",high,AI/ML,India,2025
+999,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,Remote,2025
+1000,Prompt Engineer,Tune LLM prompts for advanced AI,"prompt engineering,llm,gen ai,nlp,python",emerging,GenAI,India,2025

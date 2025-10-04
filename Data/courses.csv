@@ -1,0 +1,1001 @@
+course_name,skills,provider,duration_weeks
+Tableau Fundamentals 1,Tableau,LinkedIn Learning,3
+Power BI Fundamentals 2,Power BI,Pluralsight,12
+Data Science Fundamentals 3,Data Science,Coursera,3
+CI/CD Fundamentals 4,CI/CD,Coursera,9
+Vue.js Fundamentals 5,Vue.js,edX,8
+IoT Fundamentals 6,IoT,LinkedIn Learning,6
+Machine Learning Fundamentals 7,Machine Learning,Skillshare,12
+Blockchain Fundamentals 8,Blockchain,LinkedIn Learning,6
+Java Fundamentals 9,Java,edX,10
+C++ Fundamentals 10,C++,edX,12
+OpenCV Fundamentals 11,OpenCV,Udemy,12
+AR Fundamentals 12,AR,LinkedIn Learning,10
+PyTorch Fundamentals 13,PyTorch,LinkedIn Learning,11
+TensorFlow Fundamentals 14,TensorFlow,Skillshare,9
+Angular Fundamentals 15,Angular,Coursera,5
+Django Fundamentals 16,Django,edX,5
+DevOps Fundamentals 17,DevOps,Coursera,7
+Data Science Fundamentals 18,Data Science,Skillshare,9
+R Fundamentals 19,R,Pluralsight,2
+Java Fundamentals 20,Java,LinkedIn Learning,10
+Power BI Fundamentals 21,Power BI,Pluralsight,7
+IoT Fundamentals 22,IoT,Pluralsight,3
+Unity Fundamentals 23,Unity,Coursera,11
+IoT Fundamentals 24,IoT,Coursera,2
+Excel Fundamentals 25,Excel,LinkedIn Learning,9
+Microservices Fundamentals 26,Microservices,edX,8
+React Fundamentals 27,React,Coursera,9
+Vue.js Fundamentals 28,Vue.js,Skillshare,10
+Java Fundamentals 29,Java,Coursera,9
+TypeScript Fundamentals 30,TypeScript,LinkedIn Learning,6
+CI/CD Fundamentals 31,CI/CD,edX,9
+Java Fundamentals 32,Java,edX,11
+PyTorch Fundamentals 33,PyTorch,Coursera,8
+DevOps Fundamentals 34,DevOps,edX,11
+Machine Learning Fundamentals 35,Machine Learning,LinkedIn Learning,7
+Python Fundamentals 36,Python,Udemy,5
+Azure Fundamentals 37,Azure,LinkedIn Learning,3
+Metaverse Fundamentals 38,Metaverse,Udemy,12
+GCP Fundamentals 39,GCP,LinkedIn Learning,7
+C# Fundamentals 40,C#,Udemy,2
+Angular Fundamentals 41,Angular,Pluralsight,8
+Azure Fundamentals 42,Azure,Coursera,2
+Node.js Fundamentals 43,Node.js,Coursera,11
+Unity Fundamentals 44,Unity,Udemy,4
+Tableau Fundamentals 45,Tableau,Pluralsight,9
+Node.js Fundamentals 46,Node.js,edX,4
+DevOps Fundamentals 47,DevOps,Udemy,2
+AR Fundamentals 48,AR,Skillshare,3
+VR Fundamentals 49,VR,Coursera,11
+Tableau Fundamentals 50,Tableau,LinkedIn Learning,2
+OpenCV Fundamentals 51,OpenCV,Udemy,5
+C# Fundamentals 52,C#,Pluralsight,6
+Node.js Fundamentals 53,Node.js,LinkedIn Learning,7
+Microservices Fundamentals 54,Microservices,Udemy,10
+IoT Fundamentals 55,IoT,Pluralsight,8
+AR Fundamentals 56,AR,Pluralsight,10
+Python Fundamentals 57,Python,LinkedIn Learning,11
+C++ Fundamentals 58,C++,Pluralsight,10
+Deep Learning Fundamentals 59,Deep Learning,Skillshare,8
+Spring Boot Fundamentals 60,Spring Boot,Pluralsight,10
+TensorFlow Fundamentals 61,TensorFlow,edX,11
+Machine Learning Fundamentals 62,Machine Learning,Skillshare,5
+JavaScript Fundamentals 63,JavaScript,edX,7
+TypeScript Fundamentals 64,TypeScript,edX,12
+Spring Boot Fundamentals 65,Spring Boot,Pluralsight,3
+Power BI Fundamentals 66,Power BI,Udemy,5
+TypeScript Fundamentals 67,TypeScript,Coursera,4
+NLP Fundamentals 68,NLP,Coursera,12
+Java Fundamentals 69,Java,Udemy,8
+Power BI Fundamentals 70,Power BI,LinkedIn Learning,2
+IoT Fundamentals 71,IoT,edX,8
+Spring Boot Fundamentals 72,Spring Boot,Udemy,4
+Cloud Computing Fundamentals 73,Cloud Computing,LinkedIn Learning,9
+IoT Fundamentals 74,IoT,edX,9
+C++ Fundamentals 75,C++,Pluralsight,6
+AI Fundamentals 76,AI,Skillshare,9
+Kubernetes Fundamentals 77,Kubernetes,Coursera,10
+Robotics Fundamentals 78,Robotics,edX,4
+C# Fundamentals 79,C#,Udemy,11
+Microservices Fundamentals 80,Microservices,LinkedIn Learning,8
+NoSQL Fundamentals 81,NoSQL,edX,2
+Data Science Fundamentals 82,Data Science,Skillshare,6
+Power BI Fundamentals 83,Power BI,LinkedIn Learning,10
+Metaverse Fundamentals 84,Metaverse,Skillshare,2
+Metaverse Fundamentals 85,Metaverse,LinkedIn Learning,5
+Spark Fundamentals 86,Spark,Udemy,7
+Robotics Fundamentals 87,Robotics,Coursera,4
+GCP Fundamentals 88,GCP,Udemy,10
+Microservices Fundamentals 89,Microservices,Pluralsight,12
+Hadoop Fundamentals 90,Hadoop,Udemy,4
+CI/CD Fundamentals 91,CI/CD,Skillshare,9
+Quantum Computing Fundamentals 92,Quantum Computing,LinkedIn Learning,12
+Microservices Fundamentals 93,Microservices,Skillshare,11
+Spring Boot Fundamentals 94,Spring Boot,LinkedIn Learning,12
+Django Fundamentals 95,Django,LinkedIn Learning,3
+Flask Fundamentals 96,Flask,Pluralsight,7
+Python Fundamentals 97,Python,LinkedIn Learning,2
+Hadoop Fundamentals 98,Hadoop,edX,4
+Tableau Fundamentals 99,Tableau,LinkedIn Learning,12
+SQL Fundamentals 100,SQL,Skillshare,4
+Git Fundamentals 101,Git,Skillshare,5
+TensorFlow Fundamentals 102,TensorFlow,Pluralsight,11
+Azure Fundamentals 103,Azure,Skillshare,10
+Robotics Fundamentals 104,Robotics,edX,5
+Robotics Fundamentals 105,Robotics,Skillshare,12
+Angular Fundamentals 106,Angular,Udemy,2
+DevOps Fundamentals 107,DevOps,edX,11
+Angular Fundamentals 108,Angular,Pluralsight,3
+TensorFlow Fundamentals 109,TensorFlow,Skillshare,8
+JavaScript Fundamentals 110,JavaScript,Udemy,5
+VR Fundamentals 111,VR,Udemy,8
+Flask Fundamentals 112,Flask,edX,2
+Azure Fundamentals 113,Azure,LinkedIn Learning,8
+C# Fundamentals 114,C#,LinkedIn Learning,6
+TensorFlow Fundamentals 115,TensorFlow,Pluralsight,12
+Deep Learning Fundamentals 116,Deep Learning,Udemy,11
+AR Fundamentals 117,AR,LinkedIn Learning,10
+Blockchain Fundamentals 118,Blockchain,edX,7
+Node.js Fundamentals 119,Node.js,LinkedIn Learning,7
+Microservices Fundamentals 120,Microservices,edX,11
+AWS Fundamentals 121,AWS,Coursera,12
+Data Science Fundamentals 122,Data Science,Skillshare,11
+Robotics Fundamentals 123,Robotics,Udemy,4
+Django Fundamentals 124,Django,Skillshare,5
+Python Fundamentals 125,Python,Coursera,9
+Kubernetes Fundamentals 126,Kubernetes,LinkedIn Learning,5
+TensorFlow Fundamentals 127,TensorFlow,LinkedIn Learning,4
+Spark Fundamentals 128,Spark,Udemy,7
+Kafka Fundamentals 129,Kafka,Coursera,8
+SQL Fundamentals 130,SQL,Pluralsight,7
+Vue.js Fundamentals 131,Vue.js,Skillshare,7
+Excel Fundamentals 132,Excel,Udemy,12
+Node.js Fundamentals 133,Node.js,edX,9
+Blockchain Fundamentals 134,Blockchain,LinkedIn Learning,6
+Vue.js Fundamentals 135,Vue.js,LinkedIn Learning,4
+C# Fundamentals 136,C#,Coursera,12
+Django Fundamentals 137,Django,Coursera,10
+NLP Fundamentals 138,NLP,Skillshare,9
+Data Science Fundamentals 139,Data Science,Udemy,6
+SQL Fundamentals 140,SQL,LinkedIn Learning,8
+Machine Learning Fundamentals 141,Machine Learning,Coursera,6
+Vue.js Fundamentals 142,Vue.js,Coursera,11
+Data Science Fundamentals 143,Data Science,edX,10
+Flask Fundamentals 144,Flask,Coursera,9
+C# Fundamentals 145,C#,Skillshare,10
+C# Fundamentals 146,C#,Coursera,7
+TypeScript Fundamentals 147,TypeScript,LinkedIn Learning,8
+Spring Boot Fundamentals 148,Spring Boot,Udemy,10
+AWS Fundamentals 149,AWS,edX,9
+Data Science Fundamentals 150,Data Science,Udemy,3
+Git Fundamentals 151,Git,Udemy,7
+Blockchain Fundamentals 152,Blockchain,Udemy,8
+VR Fundamentals 153,VR,Udemy,11
+PyTorch Fundamentals 154,PyTorch,LinkedIn Learning,2
+Angular Fundamentals 155,Angular,LinkedIn Learning,9
+R Fundamentals 156,R,Pluralsight,12
+Excel Fundamentals 157,Excel,Skillshare,11
+Node.js Fundamentals 158,Node.js,Coursera,9
+TypeScript Fundamentals 159,TypeScript,Coursera,2
+Git Fundamentals 160,Git,Udemy,5
+Kubernetes Fundamentals 161,Kubernetes,Coursera,4
+NoSQL Fundamentals 162,NoSQL,Pluralsight,2
+Quantum Computing Fundamentals 163,Quantum Computing,Udemy,12
+Microservices Fundamentals 164,Microservices,Coursera,7
+OpenCV Fundamentals 165,OpenCV,Pluralsight,3
+AR Fundamentals 166,AR,Skillshare,9
+Hadoop Fundamentals 167,Hadoop,LinkedIn Learning,5
+PyTorch Fundamentals 168,PyTorch,Udemy,10
+AI Fundamentals 169,AI,Pluralsight,7
+Power BI Fundamentals 170,Power BI,Coursera,9
+AI Fundamentals 171,AI,Udemy,6
+Cloud Computing Fundamentals 172,Cloud Computing,LinkedIn Learning,10
+SQL Fundamentals 173,SQL,Skillshare,9
+Data Science Fundamentals 174,Data Science,Skillshare,10
+Microservices Fundamentals 175,Microservices,edX,4
+Kubernetes Fundamentals 176,Kubernetes,Skillshare,2
+Excel Fundamentals 177,Excel,Udemy,4
+Angular Fundamentals 178,Angular,edX,11
+Hadoop Fundamentals 179,Hadoop,Pluralsight,5
+Excel Fundamentals 180,Excel,edX,2
+Power BI Fundamentals 181,Power BI,LinkedIn Learning,5
+React Fundamentals 182,React,Coursera,7
+Unreal Engine Fundamentals 183,Unreal Engine,edX,2
+Microservices Fundamentals 184,Microservices,Skillshare,5
+Angular Fundamentals 185,Angular,LinkedIn Learning,4
+Metaverse Fundamentals 186,Metaverse,Coursera,6
+Git Fundamentals 187,Git,Skillshare,5
+Microservices Fundamentals 188,Microservices,edX,11
+Kafka Fundamentals 189,Kafka,edX,6
+Excel Fundamentals 190,Excel,Skillshare,9
+Spring Boot Fundamentals 191,Spring Boot,Coursera,2
+Node.js Fundamentals 192,Node.js,edX,6
+Quantum Computing Fundamentals 193,Quantum Computing,edX,11
+IoT Fundamentals 194,IoT,Udemy,3
+Machine Learning Fundamentals 195,Machine Learning,edX,5
+Excel Fundamentals 196,Excel,Coursera,8
+VR Fundamentals 197,VR,LinkedIn Learning,9
+Excel Fundamentals 198,Excel,Pluralsight,3
+Robotics Fundamentals 199,Robotics,Udemy,9
+C++ Fundamentals 200,C++,Skillshare,12
+Cloud Computing Fundamentals 201,Cloud Computing,Skillshare,2
+TypeScript Fundamentals 202,TypeScript,Pluralsight,10
+Node.js Fundamentals 203,Node.js,Skillshare,10
+NoSQL Fundamentals 204,NoSQL,edX,3
+Microservices Fundamentals 205,Microservices,Skillshare,2
+Vue.js Fundamentals 206,Vue.js,Coursera,10
+Deep Learning Fundamentals 207,Deep Learning,Pluralsight,4
+Python Fundamentals 208,Python,Skillshare,4
+Metaverse Fundamentals 209,Metaverse,Skillshare,4
+GCP Fundamentals 210,GCP,Pluralsight,11
+AI Fundamentals 211,AI,Skillshare,10
+DevOps Fundamentals 212,DevOps,edX,4
+TypeScript Fundamentals 213,TypeScript,edX,11
+DevOps Fundamentals 214,DevOps,Udemy,6
+Unity Fundamentals 215,Unity,edX,9
+Excel Fundamentals 216,Excel,LinkedIn Learning,12
+IoT Fundamentals 217,IoT,LinkedIn Learning,4
+Docker Fundamentals 218,Docker,edX,11
+5G Fundamentals 219,5G,Skillshare,5
+SQL Fundamentals 220,SQL,edX,12
+Java Fundamentals 221,Java,Coursera,12
+Git Fundamentals 222,Git,edX,5
+Kafka Fundamentals 223,Kafka,Coursera,5
+Unity Fundamentals 224,Unity,edX,4
+CI/CD Fundamentals 225,CI/CD,Udemy,10
+Azure Fundamentals 226,Azure,Coursera,12
+5G Fundamentals 227,5G,Pluralsight,3
+Flask Fundamentals 228,Flask,LinkedIn Learning,6
+Robotics Fundamentals 229,Robotics,Skillshare,11
+Django Fundamentals 230,Django,Skillshare,7
+GCP Fundamentals 231,GCP,Coursera,10
+Spark Fundamentals 232,Spark,Pluralsight,11
+TypeScript Fundamentals 233,TypeScript,Coursera,7
+Angular Fundamentals 234,Angular,Udemy,12
+5G Fundamentals 235,5G,Coursera,7
+5G Fundamentals 236,5G,Coursera,11
+Robotics Fundamentals 237,Robotics,Pluralsight,5
+GCP Fundamentals 238,GCP,LinkedIn Learning,8
+5G Fundamentals 239,5G,Pluralsight,2
+Node.js Fundamentals 240,Node.js,Skillshare,8
+OpenCV Fundamentals 241,OpenCV,Pluralsight,8
+Microservices Fundamentals 242,Microservices,edX,5
+Tableau Fundamentals 243,Tableau,Skillshare,5
+Data Science Fundamentals 244,Data Science,Skillshare,5
+Kafka Fundamentals 245,Kafka,edX,4
+Quantum Computing Fundamentals 246,Quantum Computing,LinkedIn Learning,5
+AR Fundamentals 247,AR,Pluralsight,3
+Deep Learning Fundamentals 248,Deep Learning,edX,11
+5G Fundamentals 249,5G,edX,6
+Django Fundamentals 250,Django,Udemy,12
+Metaverse Fundamentals 251,Metaverse,Pluralsight,4
+Metaverse Fundamentals 252,Metaverse,LinkedIn Learning,7
+Node.js Fundamentals 253,Node.js,Pluralsight,7
+C# Fundamentals 254,C#,Coursera,6
+AWS Fundamentals 255,AWS,Udemy,12
+Deep Learning Fundamentals 256,Deep Learning,Coursera,7
+CI/CD Fundamentals 257,CI/CD,edX,6
+OpenCV Fundamentals 258,OpenCV,LinkedIn Learning,2
+TensorFlow Fundamentals 259,TensorFlow,Udemy,7
+AI Fundamentals 260,AI,Skillshare,10
+C++ Fundamentals 261,C++,Udemy,7
+AR Fundamentals 262,AR,Coursera,12
+C# Fundamentals 263,C#,Skillshare,4
+5G Fundamentals 264,5G,Coursera,4
+JavaScript Fundamentals 265,JavaScript,Coursera,10
+Blockchain Fundamentals 266,Blockchain,LinkedIn Learning,7
+Power BI Fundamentals 267,Power BI,edX,12
+C++ Fundamentals 268,C++,LinkedIn Learning,10
+Vue.js Fundamentals 269,Vue.js,LinkedIn Learning,7
+Blockchain Fundamentals 270,Blockchain,Udemy,7
+5G Fundamentals 271,5G,Udemy,10
+Unreal Engine Fundamentals 272,Unreal Engine,Coursera,9
+IoT Fundamentals 273,IoT,Coursera,10
+Microservices Fundamentals 274,Microservices,Skillshare,9
+Spring Boot Fundamentals 275,Spring Boot,edX,10
+Node.js Fundamentals 276,Node.js,LinkedIn Learning,10
+Vue.js Fundamentals 277,Vue.js,LinkedIn Learning,5
+Flask Fundamentals 278,Flask,Skillshare,8
+TensorFlow Fundamentals 279,TensorFlow,Coursera,12
+Power BI Fundamentals 280,Power BI,LinkedIn Learning,4
+DevOps Fundamentals 281,DevOps,Skillshare,6
+PyTorch Fundamentals 282,PyTorch,Udemy,3
+Kubernetes Fundamentals 283,Kubernetes,Skillshare,8
+Git Fundamentals 284,Git,edX,2
+TypeScript Fundamentals 285,TypeScript,Udemy,9
+C++ Fundamentals 286,C++,Pluralsight,9
+Docker Fundamentals 287,Docker,edX,10
+Excel Fundamentals 288,Excel,Skillshare,3
+TypeScript Fundamentals 289,TypeScript,Udemy,5
+TypeScript Fundamentals 290,TypeScript,Pluralsight,7
+Blockchain Fundamentals 291,Blockchain,Skillshare,6
+Node.js Fundamentals 292,Node.js,LinkedIn Learning,2
+Blockchain Fundamentals 293,Blockchain,Coursera,3
+TypeScript Fundamentals 294,TypeScript,Coursera,3
+Django Fundamentals 295,Django,Coursera,10
+OpenCV Fundamentals 296,OpenCV,Pluralsight,4
+Django Fundamentals 297,Django,Pluralsight,7
+R Fundamentals 298,R,LinkedIn Learning,9
+Unity Fundamentals 299,Unity,LinkedIn Learning,6
+Kubernetes Fundamentals 300,Kubernetes,Pluralsight,12
+DevOps Fundamentals 301,DevOps,edX,3
+Power BI Fundamentals 302,Power BI,Skillshare,9
+Cloud Computing Fundamentals 303,Cloud Computing,Coursera,12
+IoT Fundamentals 304,IoT,Coursera,7
+Java Fundamentals 305,Java,Pluralsight,7
+NLP Fundamentals 306,NLP,Udemy,10
+Kubernetes Fundamentals 307,Kubernetes,Coursera,9
+PyTorch Fundamentals 308,PyTorch,Coursera,10
+Quantum Computing Fundamentals 309,Quantum Computing,Pluralsight,12
+Docker Fundamentals 310,Docker,Udemy,2
+R Fundamentals 311,R,Coursera,6
+R Fundamentals 312,R,LinkedIn Learning,10
+PyTorch Fundamentals 313,PyTorch,LinkedIn Learning,6
+Docker Fundamentals 314,Docker,Pluralsight,12
+TypeScript Fundamentals 315,TypeScript,LinkedIn Learning,5
+Kafka Fundamentals 316,Kafka,LinkedIn Learning,7
+OpenCV Fundamentals 317,OpenCV,LinkedIn Learning,7
+Python Fundamentals 318,Python,Udemy,2
+VR Fundamentals 319,VR,Coursera,4
+Angular Fundamentals 320,Angular,Skillshare,11
+Unreal Engine Fundamentals 321,Unreal Engine,edX,10
+AR Fundamentals 322,AR,LinkedIn Learning,12
+AWS Fundamentals 323,AWS,Skillshare,9
+Blockchain Fundamentals 324,Blockchain,Skillshare,11
+C++ Fundamentals 325,C++,Udemy,11
+Kafka Fundamentals 326,Kafka,edX,12
+SQL Fundamentals 327,SQL,LinkedIn Learning,3
+Spark Fundamentals 328,Spark,edX,9
+Unreal Engine Fundamentals 329,Unreal Engine,Udemy,11
+5G Fundamentals 330,5G,Udemy,10
+VR Fundamentals 331,VR,Skillshare,5
+Hadoop Fundamentals 332,Hadoop,edX,6
+AWS Fundamentals 333,AWS,Udemy,4
+Data Science Fundamentals 334,Data Science,Skillshare,6
+NLP Fundamentals 335,NLP,edX,8
+JavaScript Fundamentals 336,JavaScript,Pluralsight,2
+C# Fundamentals 337,C#,Udemy,11
+Flask Fundamentals 338,Flask,Coursera,10
+DevOps Fundamentals 339,DevOps,Coursera,3
+AI Fundamentals 340,AI,edX,3
+Spring Boot Fundamentals 341,Spring Boot,Udemy,3
+NLP Fundamentals 342,NLP,LinkedIn Learning,8
+TensorFlow Fundamentals 343,TensorFlow,edX,2
+C++ Fundamentals 344,C++,Pluralsight,7
+VR Fundamentals 345,VR,Coursera,12
+TensorFlow Fundamentals 346,TensorFlow,Skillshare,4
+5G Fundamentals 347,5G,Coursera,2
+Tableau Fundamentals 348,Tableau,edX,10
+GCP Fundamentals 349,GCP,Pluralsight,7
+Azure Fundamentals 350,Azure,Udemy,3
+Hadoop Fundamentals 351,Hadoop,Udemy,6
+AWS Fundamentals 352,AWS,Udemy,12
+Docker Fundamentals 353,Docker,edX,11
+SQL Fundamentals 354,SQL,Skillshare,4
+Java Fundamentals 355,Java,edX,10
+JavaScript Fundamentals 356,JavaScript,Pluralsight,6
+Excel Fundamentals 357,Excel,LinkedIn Learning,9
+Angular Fundamentals 358,Angular,LinkedIn Learning,2
+AWS Fundamentals 359,AWS,Pluralsight,6
+AWS Fundamentals 360,AWS,Skillshare,11
+NLP Fundamentals 361,NLP,Skillshare,5
+Data Science Fundamentals 362,Data Science,Skillshare,10
+OpenCV Fundamentals 363,OpenCV,Udemy,2
+PyTorch Fundamentals 364,PyTorch,Udemy,8
+Microservices Fundamentals 365,Microservices,edX,4
+Node.js Fundamentals 366,Node.js,Skillshare,6
+PyTorch Fundamentals 367,PyTorch,edX,3
+Tableau Fundamentals 368,Tableau,Udemy,7
+C++ Fundamentals 369,C++,Udemy,3
+NLP Fundamentals 370,NLP,LinkedIn Learning,7
+React Fundamentals 371,React,Coursera,11
+C++ Fundamentals 372,C++,LinkedIn Learning,3
+Flask Fundamentals 373,Flask,Pluralsight,6
+PyTorch Fundamentals 374,PyTorch,Coursera,11
+Power BI Fundamentals 375,Power BI,Coursera,9
+Quantum Computing Fundamentals 376,Quantum Computing,Udemy,6
+Tableau Fundamentals 377,Tableau,Udemy,6
+Git Fundamentals 378,Git,Coursera,4
+AI Fundamentals 379,AI,Udemy,11
+Deep Learning Fundamentals 380,Deep Learning,Pluralsight,6
+Django Fundamentals 381,Django,LinkedIn Learning,5
+Django Fundamentals 382,Django,Pluralsight,5
+Kafka Fundamentals 383,Kafka,Udemy,8
+AWS Fundamentals 384,AWS,Pluralsight,9
+IoT Fundamentals 385,IoT,Udemy,8
+Unreal Engine Fundamentals 386,Unreal Engine,Pluralsight,4
+IoT Fundamentals 387,IoT,Coursera,5
+VR Fundamentals 388,VR,edX,6
+Data Science Fundamentals 389,Data Science,Skillshare,5
+Kubernetes Fundamentals 390,Kubernetes,Coursera,11
+Quantum Computing Fundamentals 391,Quantum Computing,LinkedIn Learning,3
+Kubernetes Fundamentals 392,Kubernetes,Skillshare,4
+Docker Fundamentals 393,Docker,LinkedIn Learning,10
+CI/CD Fundamentals 394,CI/CD,Coursera,2
+Unreal Engine Fundamentals 395,Unreal Engine,edX,3
+Blockchain Fundamentals 396,Blockchain,Udemy,11
+Django Fundamentals 397,Django,Coursera,3
+TypeScript Fundamentals 398,TypeScript,Coursera,10
+Cloud Computing Fundamentals 399,Cloud Computing,Pluralsight,5
+Docker Fundamentals 400,Docker,Udemy,3
+VR Fundamentals 401,VR,LinkedIn Learning,7
+Microservices Fundamentals 402,Microservices,Coursera,4
+React Fundamentals 403,React,LinkedIn Learning,4
+VR Fundamentals 404,VR,Pluralsight,7
+Kubernetes Fundamentals 405,Kubernetes,LinkedIn Learning,9
+Metaverse Fundamentals 406,Metaverse,LinkedIn Learning,7
+Quantum Computing Fundamentals 407,Quantum Computing,edX,4
+Excel Fundamentals 408,Excel,Coursera,3
+Robotics Fundamentals 409,Robotics,LinkedIn Learning,9
+Power BI Fundamentals 410,Power BI,Coursera,12
+Spark Fundamentals 411,Spark,Pluralsight,4
+PyTorch Fundamentals 412,PyTorch,edX,7
+Unity Fundamentals 413,Unity,Pluralsight,5
+Machine Learning Fundamentals 414,Machine Learning,edX,8
+Git Fundamentals 415,Git,Skillshare,6
+Kafka Fundamentals 416,Kafka,Coursera,7
+Microservices Fundamentals 417,Microservices,edX,11
+OpenCV Fundamentals 418,OpenCV,Skillshare,3
+AI Fundamentals 419,AI,Coursera,4
+Deep Learning Fundamentals 420,Deep Learning,Coursera,6
+Python Fundamentals 421,Python,edX,12
+VR Fundamentals 422,VR,Coursera,7
+NoSQL Fundamentals 423,NoSQL,LinkedIn Learning,9
+DevOps Fundamentals 424,DevOps,edX,5
+Blockchain Fundamentals 425,Blockchain,Udemy,4
+Metaverse Fundamentals 426,Metaverse,Skillshare,11
+Angular Fundamentals 427,Angular,Coursera,2
+GCP Fundamentals 428,GCP,LinkedIn Learning,12
+C# Fundamentals 429,C#,Skillshare,8
+Deep Learning Fundamentals 430,Deep Learning,LinkedIn Learning,12
+R Fundamentals 431,R,Pluralsight,5
+NoSQL Fundamentals 432,NoSQL,Skillshare,5
+C++ Fundamentals 433,C++,Skillshare,9
+Kubernetes Fundamentals 434,Kubernetes,LinkedIn Learning,2
+Spring Boot Fundamentals 435,Spring Boot,Udemy,12
+Kafka Fundamentals 436,Kafka,edX,4
+Flask Fundamentals 437,Flask,Udemy,7
+Unity Fundamentals 438,Unity,Coursera,4
+CI/CD Fundamentals 439,CI/CD,Udemy,9
+Microservices Fundamentals 440,Microservices,Skillshare,7
+Spring Boot Fundamentals 441,Spring Boot,Pluralsight,10
+Kafka Fundamentals 442,Kafka,edX,5
+Microservices Fundamentals 443,Microservices,Coursera,12
+TypeScript Fundamentals 444,TypeScript,edX,4
+Kubernetes Fundamentals 445,Kubernetes,Skillshare,11
+Spark Fundamentals 446,Spark,LinkedIn Learning,4
+Java Fundamentals 447,Java,Pluralsight,9
+Spring Boot Fundamentals 448,Spring Boot,edX,9
+Spark Fundamentals 449,Spark,Udemy,12
+Robotics Fundamentals 450,Robotics,Coursera,2
+Vue.js Fundamentals 451,Vue.js,Coursera,11
+Data Science Fundamentals 452,Data Science,edX,9
+Flask Fundamentals 453,Flask,Udemy,3
+Cloud Computing Fundamentals 454,Cloud Computing,Skillshare,3
+TypeScript Fundamentals 455,TypeScript,Skillshare,12
+Metaverse Fundamentals 456,Metaverse,Coursera,6
+Blockchain Fundamentals 457,Blockchain,Coursera,4
+Metaverse Fundamentals 458,Metaverse,Udemy,11
+R Fundamentals 459,R,Coursera,11
+Spring Boot Fundamentals 460,Spring Boot,Pluralsight,3
+Unreal Engine Fundamentals 461,Unreal Engine,Skillshare,6
+AWS Fundamentals 462,AWS,edX,8
+Node.js Fundamentals 463,Node.js,Skillshare,6
+SQL Fundamentals 464,SQL,Pluralsight,11
+5G Fundamentals 465,5G,Coursera,5
+C# Fundamentals 466,C#,Udemy,5
+Hadoop Fundamentals 467,Hadoop,edX,2
+JavaScript Fundamentals 468,JavaScript,Udemy,9
+TypeScript Fundamentals 469,TypeScript,Udemy,2
+Blockchain Fundamentals 470,Blockchain,Udemy,12
+Excel Fundamentals 471,Excel,edX,5
+Data Science Fundamentals 472,Data Science,Pluralsight,11
+AI Fundamentals 473,AI,Udemy,11
+Robotics Fundamentals 474,Robotics,edX,7
+Angular Fundamentals 475,Angular,Coursera,2
+IoT Fundamentals 476,IoT,Pluralsight,2
+IoT Fundamentals 477,IoT,Coursera,8
+Data Science Fundamentals 478,Data Science,Skillshare,12
+Blockchain Fundamentals 479,Blockchain,LinkedIn Learning,9
+Kubernetes Fundamentals 480,Kubernetes,edX,7
+Python Fundamentals 481,Python,Udemy,9
+Spring Boot Fundamentals 482,Spring Boot,Udemy,8
+TensorFlow Fundamentals 483,TensorFlow,Pluralsight,10
+SQL Fundamentals 484,SQL,LinkedIn Learning,4
+AI Fundamentals 485,AI,edX,2
+Unreal Engine Fundamentals 486,Unreal Engine,Udemy,12
+Metaverse Fundamentals 487,Metaverse,edX,4
+Quantum Computing Fundamentals 488,Quantum Computing,Udemy,9
+Hadoop Fundamentals 489,Hadoop,edX,4
+GCP Fundamentals 490,GCP,Pluralsight,6
+TensorFlow Fundamentals 491,TensorFlow,Coursera,8
+TensorFlow Fundamentals 492,TensorFlow,Skillshare,5
+Unity Fundamentals 493,Unity,Skillshare,7
+Metaverse Fundamentals 494,Metaverse,Udemy,10
+NoSQL Fundamentals 495,NoSQL,Skillshare,6
+Unreal Engine Fundamentals 496,Unreal Engine,edX,5
+Node.js Fundamentals 497,Node.js,edX,4
+Quantum Computing Fundamentals 498,Quantum Computing,Udemy,3
+Deep Learning Fundamentals 499,Deep Learning,Pluralsight,9
+Robotics Fundamentals 500,Robotics,Coursera,2
+TensorFlow Fundamentals 501,TensorFlow,edX,2
+C# Fundamentals 502,C#,Udemy,4
+Quantum Computing Fundamentals 503,Quantum Computing,Coursera,11
+Django Fundamentals 504,Django,Udemy,12
+Kafka Fundamentals 505,Kafka,edX,8
+C# Fundamentals 506,C#,Coursera,2
+Blockchain Fundamentals 507,Blockchain,Pluralsight,12
+TypeScript Fundamentals 508,TypeScript,edX,6
+Machine Learning Fundamentals 509,Machine Learning,Pluralsight,10
+Blockchain Fundamentals 510,Blockchain,Coursera,2
+5G Fundamentals 511,5G,LinkedIn Learning,9
+Microservices Fundamentals 512,Microservices,Udemy,5
+Vue.js Fundamentals 513,Vue.js,edX,12
+NoSQL Fundamentals 514,NoSQL,Pluralsight,8
+AWS Fundamentals 515,AWS,Udemy,8
+Microservices Fundamentals 516,Microservices,Pluralsight,12
+Robotics Fundamentals 517,Robotics,Udemy,12
+Azure Fundamentals 518,Azure,edX,3
+VR Fundamentals 519,VR,edX,6
+Spark Fundamentals 520,Spark,Udemy,4
+TensorFlow Fundamentals 521,TensorFlow,edX,6
+TensorFlow Fundamentals 522,TensorFlow,edX,8
+Microservices Fundamentals 523,Microservices,Coursera,9
+C++ Fundamentals 524,C++,edX,4
+Blockchain Fundamentals 525,Blockchain,Udemy,2
+NoSQL Fundamentals 526,NoSQL,Udemy,7
+Node.js Fundamentals 527,Node.js,Udemy,3
+Robotics Fundamentals 528,Robotics,edX,2
+Azure Fundamentals 529,Azure,LinkedIn Learning,4
+Tableau Fundamentals 530,Tableau,Skillshare,12
+Tableau Fundamentals 531,Tableau,Skillshare,2
+Deep Learning Fundamentals 532,Deep Learning,Coursera,11
+Deep Learning Fundamentals 533,Deep Learning,edX,8
+Robotics Fundamentals 534,Robotics,Skillshare,7
+Python Fundamentals 535,Python,Pluralsight,5
+Spark Fundamentals 536,Spark,Udemy,6
+C# Fundamentals 537,C#,Skillshare,9
+TypeScript Fundamentals 538,TypeScript,Coursera,2
+Cloud Computing Fundamentals 539,Cloud Computing,Coursera,9
+Data Science Fundamentals 540,Data Science,edX,11
+Kafka Fundamentals 541,Kafka,Pluralsight,12
+C++ Fundamentals 542,C++,Udemy,5
+OpenCV Fundamentals 543,OpenCV,Pluralsight,6
+Metaverse Fundamentals 544,Metaverse,edX,8
+GCP Fundamentals 545,GCP,Coursera,10
+AR Fundamentals 546,AR,LinkedIn Learning,6
+Power BI Fundamentals 547,Power BI,Coursera,12
+Hadoop Fundamentals 548,Hadoop,Skillshare,10
+TypeScript Fundamentals 549,TypeScript,Skillshare,2
+Robotics Fundamentals 550,Robotics,Pluralsight,10
+Node.js Fundamentals 551,Node.js,Coursera,9
+Power BI Fundamentals 552,Power BI,Pluralsight,12
+TensorFlow Fundamentals 553,TensorFlow,Skillshare,12
+Azure Fundamentals 554,Azure,Udemy,4
+Unity Fundamentals 555,Unity,Pluralsight,12
+Node.js Fundamentals 556,Node.js,Coursera,5
+AI Fundamentals 557,AI,Pluralsight,12
+VR Fundamentals 558,VR,edX,4
+Git Fundamentals 559,Git,Skillshare,8
+Unity Fundamentals 560,Unity,Coursera,11
+Docker Fundamentals 561,Docker,Skillshare,11
+Unreal Engine Fundamentals 562,Unreal Engine,Udemy,9
+AR Fundamentals 563,AR,edX,11
+Angular Fundamentals 564,Angular,Skillshare,8
+Data Science Fundamentals 565,Data Science,Coursera,3
+Django Fundamentals 566,Django,Coursera,8
+AR Fundamentals 567,AR,LinkedIn Learning,7
+Machine Learning Fundamentals 568,Machine Learning,Skillshare,7
+Django Fundamentals 569,Django,edX,6
+Tableau Fundamentals 570,Tableau,Coursera,5
+Python Fundamentals 571,Python,Skillshare,11
+Excel Fundamentals 572,Excel,Coursera,2
+Python Fundamentals 573,Python,Pluralsight,5
+DevOps Fundamentals 574,DevOps,LinkedIn Learning,10
+Unity Fundamentals 575,Unity,edX,2
+NLP Fundamentals 576,NLP,Skillshare,9
+NLP Fundamentals 577,NLP,edX,6
+C# Fundamentals 578,C#,LinkedIn Learning,8
+Django Fundamentals 579,Django,LinkedIn Learning,9
+React Fundamentals 580,React,Coursera,8
+Unreal Engine Fundamentals 581,Unreal Engine,Coursera,12
+AR Fundamentals 582,AR,Coursera,8
+Cloud Computing Fundamentals 583,Cloud Computing,Coursera,2
+Node.js Fundamentals 584,Node.js,edX,3
+TensorFlow Fundamentals 585,TensorFlow,Coursera,3
+C++ Fundamentals 586,C++,Coursera,7
+VR Fundamentals 587,VR,Coursera,2
+NoSQL Fundamentals 588,NoSQL,Pluralsight,5
+R Fundamentals 589,R,edX,4
+Docker Fundamentals 590,Docker,Skillshare,9
+AI Fundamentals 591,AI,Skillshare,8
+Hadoop Fundamentals 592,Hadoop,edX,5
+Microservices Fundamentals 593,Microservices,LinkedIn Learning,8
+Hadoop Fundamentals 594,Hadoop,Udemy,5
+SQL Fundamentals 595,SQL,Pluralsight,3
+SQL Fundamentals 596,SQL,Udemy,11
+React Fundamentals 597,React,LinkedIn Learning,5
+Azure Fundamentals 598,Azure,LinkedIn Learning,2
+5G Fundamentals 599,5G,LinkedIn Learning,11
+Python Fundamentals 600,Python,Udemy,2
+Cloud Computing Fundamentals 601,Cloud Computing,Skillshare,7
+Python Fundamentals 602,Python,Pluralsight,5
+Deep Learning Fundamentals 603,Deep Learning,Udemy,4
+Robotics Fundamentals 604,Robotics,Coursera,6
+VR Fundamentals 605,VR,Coursera,12
+Cloud Computing Fundamentals 606,Cloud Computing,Pluralsight,8
+Power BI Fundamentals 607,Power BI,LinkedIn Learning,12
+CI/CD Fundamentals 608,CI/CD,Pluralsight,6
+Metaverse Fundamentals 609,Metaverse,Skillshare,12
+OpenCV Fundamentals 610,OpenCV,Skillshare,10
+AI Fundamentals 611,AI,LinkedIn Learning,6
+C++ Fundamentals 612,C++,Coursera,2
+SQL Fundamentals 613,SQL,Coursera,10
+IoT Fundamentals 614,IoT,Coursera,9
+Azure Fundamentals 615,Azure,Pluralsight,10
+TensorFlow Fundamentals 616,TensorFlow,edX,4
+SQL Fundamentals 617,SQL,Udemy,6
+Azure Fundamentals 618,Azure,Pluralsight,6
+C++ Fundamentals 619,C++,Udemy,9
+Spring Boot Fundamentals 620,Spring Boot,Udemy,11
+AWS Fundamentals 621,AWS,LinkedIn Learning,11
+AWS Fundamentals 622,AWS,LinkedIn Learning,4
+Deep Learning Fundamentals 623,Deep Learning,Udemy,2
+Angular Fundamentals 624,Angular,edX,10
+Spark Fundamentals 625,Spark,Udemy,3
+Kubernetes Fundamentals 626,Kubernetes,LinkedIn Learning,3
+Django Fundamentals 627,Django,Pluralsight,9
+TypeScript Fundamentals 628,TypeScript,Pluralsight,8
+Cloud Computing Fundamentals 629,Cloud Computing,Skillshare,11
+Unity Fundamentals 630,Unity,Coursera,8
+Django Fundamentals 631,Django,edX,5
+Azure Fundamentals 632,Azure,Coursera,6
+Git Fundamentals 633,Git,Skillshare,11
+Python Fundamentals 634,Python,Udemy,11
+TypeScript Fundamentals 635,TypeScript,Coursera,4
+NLP Fundamentals 636,NLP,LinkedIn Learning,11
+Django Fundamentals 637,Django,Udemy,10
+CI/CD Fundamentals 638,CI/CD,Skillshare,12
+NLP Fundamentals 639,NLP,Udemy,8
+Vue.js Fundamentals 640,Vue.js,LinkedIn Learning,11
+AR Fundamentals 641,AR,LinkedIn Learning,4
+5G Fundamentals 642,5G,LinkedIn Learning,9
+TypeScript Fundamentals 643,TypeScript,Skillshare,9
+Flask Fundamentals 644,Flask,Pluralsight,10
+OpenCV Fundamentals 645,OpenCV,edX,7
+Deep Learning Fundamentals 646,Deep Learning,Udemy,5
+PyTorch Fundamentals 647,PyTorch,Udemy,11
+Metaverse Fundamentals 648,Metaverse,edX,11
+Java Fundamentals 649,Java,LinkedIn Learning,3
+Unity Fundamentals 650,Unity,Udemy,6
+Node.js Fundamentals 651,Node.js,Skillshare,4
+TensorFlow Fundamentals 652,TensorFlow,Pluralsight,4
+Microservices Fundamentals 653,Microservices,LinkedIn Learning,9
+Hadoop Fundamentals 654,Hadoop,Coursera,5
+Blockchain Fundamentals 655,Blockchain,Udemy,2
+NLP Fundamentals 656,NLP,Pluralsight,9
+Metaverse Fundamentals 657,Metaverse,LinkedIn Learning,11
+C# Fundamentals 658,C#,Pluralsight,12
+AR Fundamentals 659,AR,Udemy,9
+Blockchain Fundamentals 660,Blockchain,LinkedIn Learning,10
+JavaScript Fundamentals 661,JavaScript,Skillshare,9
+Flask Fundamentals 662,Flask,Pluralsight,7
+Docker Fundamentals 663,Docker,Coursera,9
+Unreal Engine Fundamentals 664,Unreal Engine,edX,6
+Node.js Fundamentals 665,Node.js,Skillshare,7
+Flask Fundamentals 666,Flask,Coursera,4
+Git Fundamentals 667,Git,LinkedIn Learning,3
+Kubernetes Fundamentals 668,Kubernetes,Pluralsight,11
+GCP Fundamentals 669,GCP,edX,12
+Java Fundamentals 670,Java,Pluralsight,5
+C++ Fundamentals 671,C++,Udemy,3
+Django Fundamentals 672,Django,edX,7
+Git Fundamentals 673,Git,Coursera,12
+IoT Fundamentals 674,IoT,LinkedIn Learning,7
+Flask Fundamentals 675,Flask,LinkedIn Learning,12
+Vue.js Fundamentals 676,Vue.js,LinkedIn Learning,2
+DevOps Fundamentals 677,DevOps,LinkedIn Learning,8
+R Fundamentals 678,R,Skillshare,3
+Blockchain Fundamentals 679,Blockchain,Pluralsight,11
+Vue.js Fundamentals 680,Vue.js,Udemy,4
+GCP Fundamentals 681,GCP,Skillshare,12
+JavaScript Fundamentals 682,JavaScript,Udemy,4
+Java Fundamentals 683,Java,Skillshare,3
+Vue.js Fundamentals 684,Vue.js,Udemy,4
+IoT Fundamentals 685,IoT,Coursera,9
+R Fundamentals 686,R,Pluralsight,12
+NoSQL Fundamentals 687,NoSQL,Pluralsight,12
+Blockchain Fundamentals 688,Blockchain,Pluralsight,5
+Java Fundamentals 689,Java,Pluralsight,8
+R Fundamentals 690,R,Pluralsight,6
+Python Fundamentals 691,Python,Skillshare,3
+Spark Fundamentals 692,Spark,Udemy,12
+CI/CD Fundamentals 693,CI/CD,Coursera,5
+Excel Fundamentals 694,Excel,edX,3
+Java Fundamentals 695,Java,edX,3
+IoT Fundamentals 696,IoT,Coursera,2
+Kafka Fundamentals 697,Kafka,Pluralsight,6
+NoSQL Fundamentals 698,NoSQL,edX,8
+TensorFlow Fundamentals 699,TensorFlow,edX,4
+Docker Fundamentals 700,Docker,Udemy,10
+Java Fundamentals 701,Java,edX,3
+NoSQL Fundamentals 702,NoSQL,Pluralsight,5
+AR Fundamentals 703,AR,Skillshare,12
+Git Fundamentals 704,Git,Pluralsight,7
+Git Fundamentals 705,Git,Coursera,11
+5G Fundamentals 706,5G,Pluralsight,9
+Vue.js Fundamentals 707,Vue.js,Skillshare,4
+Angular Fundamentals 708,Angular,LinkedIn Learning,2
+Python Fundamentals 709,Python,Skillshare,9
+Python Fundamentals 710,Python,Skillshare,9
+DevOps Fundamentals 711,DevOps,Skillshare,9
+Docker Fundamentals 712,Docker,edX,2
+NLP Fundamentals 713,NLP,Skillshare,3
+CI/CD Fundamentals 714,CI/CD,edX,9
+Python Fundamentals 715,Python,Coursera,11
+C++ Fundamentals 716,C++,Pluralsight,9
+NoSQL Fundamentals 717,NoSQL,edX,10
+AR Fundamentals 718,AR,LinkedIn Learning,8
+Deep Learning Fundamentals 719,Deep Learning,edX,12
+Azure Fundamentals 720,Azure,Coursera,4
+Data Science Fundamentals 721,Data Science,edX,2
+Flask Fundamentals 722,Flask,edX,12
+TensorFlow Fundamentals 723,TensorFlow,Udemy,7
+PyTorch Fundamentals 724,PyTorch,Coursera,5
+Machine Learning Fundamentals 725,Machine Learning,Pluralsight,8
+Excel Fundamentals 726,Excel,Skillshare,7
+Java Fundamentals 727,Java,Pluralsight,6
+DevOps Fundamentals 728,DevOps,Coursera,4
+R Fundamentals 729,R,Udemy,4
+Tableau Fundamentals 730,Tableau,Coursera,8
+Hadoop Fundamentals 731,Hadoop,Udemy,4
+NLP Fundamentals 732,NLP,edX,12
+OpenCV Fundamentals 733,OpenCV,LinkedIn Learning,5
+Kubernetes Fundamentals 734,Kubernetes,LinkedIn Learning,4
+Unreal Engine Fundamentals 735,Unreal Engine,Pluralsight,3
+Kubernetes Fundamentals 736,Kubernetes,edX,8
+TypeScript Fundamentals 737,TypeScript,edX,12
+NoSQL Fundamentals 738,NoSQL,Pluralsight,9
+Azure Fundamentals 739,Azure,Udemy,7
+Tableau Fundamentals 740,Tableau,Coursera,2
+Deep Learning Fundamentals 741,Deep Learning,Coursera,12
+Spring Boot Fundamentals 742,Spring Boot,LinkedIn Learning,10
+Kubernetes Fundamentals 743,Kubernetes,Coursera,9
+TypeScript Fundamentals 744,TypeScript,LinkedIn Learning,10
+Unity Fundamentals 745,Unity,Pluralsight,12
+C++ Fundamentals 746,C++,Skillshare,11
+Azure Fundamentals 747,Azure,Pluralsight,4
+Robotics Fundamentals 748,Robotics,Pluralsight,8
+TypeScript Fundamentals 749,TypeScript,Udemy,7
+Angular Fundamentals 750,Angular,Skillshare,12
+DevOps Fundamentals 751,DevOps,LinkedIn Learning,5
+Azure Fundamentals 752,Azure,LinkedIn Learning,6
+PyTorch Fundamentals 753,PyTorch,Coursera,2
+C++ Fundamentals 754,C++,LinkedIn Learning,11
+Vue.js Fundamentals 755,Vue.js,LinkedIn Learning,7
+Blockchain Fundamentals 756,Blockchain,Skillshare,5
+GCP Fundamentals 757,GCP,Coursera,6
+TensorFlow Fundamentals 758,TensorFlow,Pluralsight,9
+TypeScript Fundamentals 759,TypeScript,edX,10
+Kubernetes Fundamentals 760,Kubernetes,Coursera,10
+Unreal Engine Fundamentals 761,Unreal Engine,Skillshare,2
+Microservices Fundamentals 762,Microservices,Udemy,12
+5G Fundamentals 763,5G,Udemy,12
+VR Fundamentals 764,VR,Skillshare,11
+Git Fundamentals 765,Git,Skillshare,6
+Node.js Fundamentals 766,Node.js,Coursera,2
+Robotics Fundamentals 767,Robotics,Pluralsight,10
+Deep Learning Fundamentals 768,Deep Learning,Udemy,6
+5G Fundamentals 769,5G,Udemy,11
+Microservices Fundamentals 770,Microservices,edX,8
+JavaScript Fundamentals 771,JavaScript,Udemy,2
+Excel Fundamentals 772,Excel,LinkedIn Learning,4
+CI/CD Fundamentals 773,CI/CD,Coursera,3
+IoT Fundamentals 774,IoT,Pluralsight,11
+Angular Fundamentals 775,Angular,LinkedIn Learning,6
+SQL Fundamentals 776,SQL,Skillshare,12
+Node.js Fundamentals 777,Node.js,edX,2
+Angular Fundamentals 778,Angular,Skillshare,6
+NoSQL Fundamentals 779,NoSQL,Coursera,8
+GCP Fundamentals 780,GCP,Skillshare,12
+Python Fundamentals 781,Python,Coursera,9
+IoT Fundamentals 782,IoT,Coursera,4
+DevOps Fundamentals 783,DevOps,LinkedIn Learning,11
+Excel Fundamentals 784,Excel,Pluralsight,7
+Cloud Computing Fundamentals 785,Cloud Computing,LinkedIn Learning,5
+C# Fundamentals 786,C#,Udemy,6
+VR Fundamentals 787,VR,Udemy,12
+Robotics Fundamentals 788,Robotics,edX,5
+Microservices Fundamentals 789,Microservices,Pluralsight,10
+R Fundamentals 790,R,Udemy,2
+OpenCV Fundamentals 791,OpenCV,Pluralsight,3
+NLP Fundamentals 792,NLP,Udemy,7
+Excel Fundamentals 793,Excel,Skillshare,9
+Cloud Computing Fundamentals 794,Cloud Computing,Pluralsight,2
+Machine Learning Fundamentals 795,Machine Learning,edX,10
+C# Fundamentals 796,C#,edX,11
+C# Fundamentals 797,C#,Skillshare,9
+Node.js Fundamentals 798,Node.js,edX,11
+GCP Fundamentals 799,GCP,Udemy,11
+VR Fundamentals 800,VR,Udemy,10
+CI/CD Fundamentals 801,CI/CD,Pluralsight,11
+Unity Fundamentals 802,Unity,Udemy,11
+SQL Fundamentals 803,SQL,Udemy,2
+Spring Boot Fundamentals 804,Spring Boot,edX,3
+Machine Learning Fundamentals 805,Machine Learning,LinkedIn Learning,4
+Deep Learning Fundamentals 806,Deep Learning,LinkedIn Learning,8
+Kubernetes Fundamentals 807,Kubernetes,Udemy,2
+R Fundamentals 808,R,Skillshare,7
+TensorFlow Fundamentals 809,TensorFlow,Udemy,11
+Blockchain Fundamentals 810,Blockchain,Pluralsight,2
+Cloud Computing Fundamentals 811,Cloud Computing,LinkedIn Learning,3
+OpenCV Fundamentals 812,OpenCV,Skillshare,10
+Kubernetes Fundamentals 813,Kubernetes,edX,7
+NoSQL Fundamentals 814,NoSQL,Udemy,6
+Angular Fundamentals 815,Angular,Udemy,3
+TensorFlow Fundamentals 816,TensorFlow,Coursera,4
+TypeScript Fundamentals 817,TypeScript,Coursera,5
+JavaScript Fundamentals 818,JavaScript,edX,8
+GCP Fundamentals 819,GCP,Skillshare,12
+Spark Fundamentals 820,Spark,LinkedIn Learning,2
+Spark Fundamentals 821,Spark,Udemy,6
+TensorFlow Fundamentals 822,TensorFlow,edX,5
+SQL Fundamentals 823,SQL,LinkedIn Learning,12
+AR Fundamentals 824,AR,Skillshare,3
+PyTorch Fundamentals 825,PyTorch,Skillshare,9
+NoSQL Fundamentals 826,NoSQL,Udemy,2
+Tableau Fundamentals 827,Tableau,edX,8
+React Fundamentals 828,React,LinkedIn Learning,7
+Unity Fundamentals 829,Unity,Pluralsight,10
+Robotics Fundamentals 830,Robotics,edX,7
+PyTorch Fundamentals 831,PyTorch,LinkedIn Learning,12
+DevOps Fundamentals 832,DevOps,Udemy,6
+Machine Learning Fundamentals 833,Machine Learning,Skillshare,9
+AWS Fundamentals 834,AWS,Coursera,11
+GCP Fundamentals 835,GCP,LinkedIn Learning,6
+Vue.js Fundamentals 836,Vue.js,Pluralsight,9
+SQL Fundamentals 837,SQL,Coursera,8
+Flask Fundamentals 838,Flask,Coursera,9
+JavaScript Fundamentals 839,JavaScript,Coursera,6
+Django Fundamentals 840,Django,Coursera,11
+Metaverse Fundamentals 841,Metaverse,Skillshare,8
+Kafka Fundamentals 842,Kafka,Skillshare,6
+Kafka Fundamentals 843,Kafka,Coursera,3
+Kubernetes Fundamentals 844,Kubernetes,Udemy,5
+DevOps Fundamentals 845,DevOps,Udemy,6
+PyTorch Fundamentals 846,PyTorch,edX,8
+NoSQL Fundamentals 847,NoSQL,edX,10
+Azure Fundamentals 848,Azure,Skillshare,10
+SQL Fundamentals 849,SQL,Skillshare,12
+AI Fundamentals 850,AI,Coursera,2
+Kafka Fundamentals 851,Kafka,LinkedIn Learning,10
+OpenCV Fundamentals 852,OpenCV,LinkedIn Learning,7
+Robotics Fundamentals 853,Robotics,edX,12
+AR Fundamentals 854,AR,LinkedIn Learning,9
+5G Fundamentals 855,5G,Coursera,9
+AR Fundamentals 856,AR,edX,2
+C# Fundamentals 857,C#,Coursera,8
+CI/CD Fundamentals 858,CI/CD,Udemy,9
+IoT Fundamentals 859,IoT,Pluralsight,4
+Django Fundamentals 860,Django,edX,6
+Hadoop Fundamentals 861,Hadoop,Skillshare,3
+Machine Learning Fundamentals 862,Machine Learning,LinkedIn Learning,10
+NLP Fundamentals 863,NLP,Pluralsight,10
+Data Science Fundamentals 864,Data Science,LinkedIn Learning,8
+Data Science Fundamentals 865,Data Science,Udemy,7
+Python Fundamentals 866,Python,Udemy,6
+C++ Fundamentals 867,C++,Udemy,2
+Power BI Fundamentals 868,Power BI,edX,12
+R Fundamentals 869,R,Coursera,8
+Angular Fundamentals 870,Angular,Coursera,7
+AI Fundamentals 871,AI,Udemy,9
+VR Fundamentals 872,VR,Udemy,10
+Data Science Fundamentals 873,Data Science,Udemy,4
+Kubernetes Fundamentals 874,Kubernetes,Coursera,5
+Microservices Fundamentals 875,Microservices,edX,3
+Docker Fundamentals 876,Docker,Skillshare,4
+VR Fundamentals 877,VR,Coursera,9
+C# Fundamentals 878,C#,edX,7
+Azure Fundamentals 879,Azure,LinkedIn Learning,3
+Cloud Computing Fundamentals 880,Cloud Computing,Skillshare,5
+TypeScript Fundamentals 881,TypeScript,Skillshare,6
+AWS Fundamentals 882,AWS,Udemy,5
+Blockchain Fundamentals 883,Blockchain,Udemy,11
+JavaScript Fundamentals 884,JavaScript,edX,8
+TypeScript Fundamentals 885,TypeScript,edX,2
+NoSQL Fundamentals 886,NoSQL,Pluralsight,7
+TypeScript Fundamentals 887,TypeScript,Pluralsight,9
+Power BI Fundamentals 888,Power BI,Coursera,11
+Quantum Computing Fundamentals 889,Quantum Computing,edX,5
+Quantum Computing Fundamentals 890,Quantum Computing,Coursera,12
+Spark Fundamentals 891,Spark,Udemy,4
+DevOps Fundamentals 892,DevOps,Skillshare,9
+Microservices Fundamentals 893,Microservices,edX,11
+Quantum Computing Fundamentals 894,Quantum Computing,Coursera,8
+Node.js Fundamentals 895,Node.js,edX,8
+Angular Fundamentals 896,Angular,Udemy,3
+Quantum Computing Fundamentals 897,Quantum Computing,Pluralsight,8
+PyTorch Fundamentals 898,PyTorch,Skillshare,8
+SQL Fundamentals 899,SQL,Skillshare,12
+Robotics Fundamentals 900,Robotics,Udemy,5
+AI Fundamentals 901,AI,Pluralsight,8
+Blockchain Fundamentals 902,Blockchain,Udemy,8
+SQL Fundamentals 903,SQL,LinkedIn Learning,5
+Blockchain Fundamentals 904,Blockchain,LinkedIn Learning,2
+Power BI Fundamentals 905,Power BI,edX,8
+AI Fundamentals 906,AI,LinkedIn Learning,2
+TensorFlow Fundamentals 907,TensorFlow,LinkedIn Learning,5
+Spring Boot Fundamentals 908,Spring Boot,edX,6
+Quantum Computing Fundamentals 909,Quantum Computing,Pluralsight,8
+C# Fundamentals 910,C#,Coursera,7
+Angular Fundamentals 911,Angular,Udemy,12
+NLP Fundamentals 912,NLP,Udemy,12
+AWS Fundamentals 913,AWS,LinkedIn Learning,8
+Robotics Fundamentals 914,Robotics,edX,4
+Java Fundamentals 915,Java,edX,7
+Vue.js Fundamentals 916,Vue.js,edX,11
+GCP Fundamentals 917,GCP,Skillshare,10
+AR Fundamentals 918,AR,Coursera,7
+C++ Fundamentals 919,C++,Skillshare,5
+Python Fundamentals 920,Python,edX,11
+Quantum Computing Fundamentals 921,Quantum Computing,Pluralsight,4
+R Fundamentals 922,R,edX,8
+NLP Fundamentals 923,NLP,Pluralsight,12
+AWS Fundamentals 924,AWS,LinkedIn Learning,12
+Git Fundamentals 925,Git,Skillshare,7
+Azure Fundamentals 926,Azure,edX,11
+AR Fundamentals 927,AR,Skillshare,5
+Kafka Fundamentals 928,Kafka,Skillshare,2
+Python Fundamentals 929,Python,Coursera,12
+TensorFlow Fundamentals 930,TensorFlow,Udemy,5
+Docker Fundamentals 931,Docker,edX,9
+Tableau Fundamentals 932,Tableau,LinkedIn Learning,2
+Data Science Fundamentals 933,Data Science,edX,3
+IoT Fundamentals 934,IoT,Udemy,12
+Vue.js Fundamentals 935,Vue.js,Pluralsight,7
+Tableau Fundamentals 936,Tableau,LinkedIn Learning,12
+Spring Boot Fundamentals 937,Spring Boot,edX,12
+Blockchain Fundamentals 938,Blockchain,LinkedIn Learning,12
+Deep Learning Fundamentals 939,Deep Learning,Udemy,4
+JavaScript Fundamentals 940,JavaScript,Coursera,6
+Unity Fundamentals 941,Unity,Pluralsight,12
+Angular Fundamentals 942,Angular,Udemy,5
+PyTorch Fundamentals 943,PyTorch,Udemy,5
+GCP Fundamentals 944,GCP,Pluralsight,6
+Spark Fundamentals 945,Spark,Coursera,10
+Angular Fundamentals 946,Angular,Udemy,4
+DevOps Fundamentals 947,DevOps,Coursera,8
+Java Fundamentals 948,Java,edX,6
+Node.js Fundamentals 949,Node.js,LinkedIn Learning,11
+CI/CD Fundamentals 950,CI/CD,LinkedIn Learning,6
+Robotics Fundamentals 951,Robotics,Pluralsight,11
+Vue.js Fundamentals 952,Vue.js,LinkedIn Learning,3
+C# Fundamentals 953,C#,Udemy,9
+Docker Fundamentals 954,Docker,Pluralsight,8
+TypeScript Fundamentals 955,TypeScript,Coursera,8
+Robotics Fundamentals 956,Robotics,Skillshare,2
+Unreal Engine Fundamentals 957,Unreal Engine,Udemy,7
+Machine Learning Fundamentals 958,Machine Learning,LinkedIn Learning,11
+OpenCV Fundamentals 959,OpenCV,Pluralsight,2
+IoT Fundamentals 960,IoT,Skillshare,5
+GCP Fundamentals 961,GCP,Pluralsight,2
+Cloud Computing Fundamentals 962,Cloud Computing,edX,12
+Quantum Computing Fundamentals 963,Quantum Computing,Skillshare,5
+C# Fundamentals 964,C#,Pluralsight,12
+VR Fundamentals 965,VR,Pluralsight,6
+React Fundamentals 966,React,Skillshare,4
+Cloud Computing Fundamentals 967,Cloud Computing,Pluralsight,8
+Quantum Computing Fundamentals 968,Quantum Computing,Coursera,11
+JavaScript Fundamentals 969,JavaScript,Pluralsight,9
+PyTorch Fundamentals 970,PyTorch,Coursera,7
+Node.js Fundamentals 971,Node.js,Pluralsight,2
+C++ Fundamentals 972,C++,Coursera,7
+Hadoop Fundamentals 973,Hadoop,LinkedIn Learning,4
+AWS Fundamentals 974,AWS,Udemy,9
+TensorFlow Fundamentals 975,TensorFlow,Coursera,2
+Java Fundamentals 976,Java,LinkedIn Learning,3
+SQL Fundamentals 977,SQL,Coursera,6
+Node.js Fundamentals 978,Node.js,Udemy,12
+Robotics Fundamentals 979,Robotics,Skillshare,12
+NoSQL Fundamentals 980,NoSQL,Skillshare,5
+Flask Fundamentals 981,Flask,Skillshare,11
+Blockchain Fundamentals 982,Blockchain,Skillshare,7
+JavaScript Fundamentals 983,JavaScript,edX,3
+Spark Fundamentals 984,Spark,edX,9
+NLP Fundamentals 985,NLP,LinkedIn Learning,3
+Spark Fundamentals 986,Spark,LinkedIn Learning,7
+Vue.js Fundamentals 987,Vue.js,Coursera,12
+C++ Fundamentals 988,C++,edX,12
+Hadoop Fundamentals 989,Hadoop,edX,2
+NoSQL Fundamentals 990,NoSQL,Skillshare,5
+TypeScript Fundamentals 991,TypeScript,edX,8
+SQL Fundamentals 992,SQL,Pluralsight,12
+Docker Fundamentals 993,Docker,Pluralsight,6
+Unreal Engine Fundamentals 994,Unreal Engine,Pluralsight,4
+Kubernetes Fundamentals 995,Kubernetes,Pluralsight,10
+AWS Fundamentals 996,AWS,edX,6
+Django Fundamentals 997,Django,Skillshare,11
+DevOps Fundamentals 998,DevOps,Udemy,12
+Cloud Computing Fundamentals 999,Cloud Computing,Skillshare,8
+Machine Learning Fundamentals 1000,Machine Learning,Skillshare,6

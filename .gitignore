@@ -65,7 +65,6 @@ env/
 
 # Data / logs
 *.log
-*.csv
 *.dat
 *.tmp
 *.temp
